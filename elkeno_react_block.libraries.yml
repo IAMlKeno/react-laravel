@@ -1,0 +1,4 @@
+# Custom module library for general purposes.
+elkeno_react_block:
+  js:
+    js/dist/index.js: { preprocess: FALSE}

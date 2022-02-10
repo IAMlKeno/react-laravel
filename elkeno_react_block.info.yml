@@ -1,0 +1,5 @@
+name: Elkeno React Block
+type: module
+description: Provides a block that renders content using React.
+package: Custom
+core_version_requirement: ^9 || ^10
